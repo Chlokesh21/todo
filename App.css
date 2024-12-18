@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: "Times New Roman", Times, serif;
+  background-image: url("https://w0.peakpx.com/wallpaper/294/328/HD-wallpaper-blue-blue-fire-blue-color.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 200%;
+}
